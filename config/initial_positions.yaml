@@ -1,0 +1,17 @@
+# Default initial positions for D_JEARM's ros2_control fake system
+
+initial_positions:
+  joint11: 0
+  joint12: 0
+  joint13: 0
+  joint14: 0
+  joint15: 0
+  joint16: 0
+  joint17: 0
+  joint21: 0
+  joint22: 0
+  joint23: 0
+  joint24: 0
+  joint25: 0
+  joint26: 0
+  joint27: 0
