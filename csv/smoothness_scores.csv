@@ -1,0 +1,3 @@
+label,curvature_hf_strong_energy_n,accel_hf_strong_energy_n,norm_C,norm_A,final_score
+right /home/wangyunhao/development/ros2_ws/src/double_jearm_moveit_config/csv/test_joint_state_7 (copy).csv,4.07829198097,0.0262918642084,1,1,1
+right /home/wangyunhao/development/ros2_ws/src/double_jearm_moveit_config/csv/test_joint_state_7.csv,4.07829198097,0.0262918642084,1,1,1

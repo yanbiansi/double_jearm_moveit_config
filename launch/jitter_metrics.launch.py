@@ -32,12 +32,12 @@ def generate_launch_description():
         [
             DeclareLaunchArgument(
                 "csv_dir",
-                default_value="/home/wangyunhao/development/ros2_ws/src/double_jearm_moveit_config/csv",
+                default_value="",
                 description="Directory containing CSV files with joint positions.",
             ),
             DeclareLaunchArgument(
                 "csv_path",
-                default_value="/home/wangyunhao/development/ros2_ws/src/double_jearm_moveit_config/test_joint_state_14.csv",
+                default_value="",
                 description="Path to a single CSV file (used if csv_dir is empty).",
             ),
             DeclareLaunchArgument(
@@ -47,7 +47,7 @@ def generate_launch_description():
             ),
             DeclareLaunchArgument(
                 "arm_mode",
-                default_value="both",
+                default_value="",
                 description="left/right/both to select arm joints.",
             ),
             DeclareLaunchArgument(
